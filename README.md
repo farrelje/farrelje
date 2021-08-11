@@ -1,16 +1,15 @@
-### Hi there 👋
+### Kia ora, I'm Farrel 👋
 
-<!--
-**farrelje/farrelje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer currently based in Dunedin, New Zealand - but I'm a happy traveller ✈️.
+Learning and improving are important for me - both in tech and learning to be a better human 💭.
 
-Here are some ideas to get you started:
+#### Tools and focus 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience including `HTML/CSS`, `JavaScript`, `Python`, `React`, `Express`, and `TailwindCSS`, and I'm constantly discovering new & interesting tech.
+Next on my list to learn: `GraphQL`, `NextJS`, `React Native`, `ChakraUI`.  
+
+#### Fun facts ❔
+
+- Kiwi, but have lived in Europe and fluent in German 🇩🇪
+- Enjoy baking (handcrafted bread & cake are the best)
+- Love the outdoors and running
