@@ -5,7 +5,7 @@ Learning and improving are important for me - both in tech and learning to be a 
 
 #### Tools and focus 🧰
 
-I have experience including `HTML/CSS`, `JavaScript`, `Python`, `React`, `Express`, and `TailwindCSS`, and I'm constantly discovering new & interesting tech.
+I have experience including `HTML/CSS`, `JavaScript`, `Python`, `React`, `Express`, and `TailwindCSS`, and I'm constantly discovering new & interesting tech.  
 Next on my list to learn: `GraphQL`, `NextJS`, `React Native`, `ChakraUI`.  
 
 #### Fun facts ❔
